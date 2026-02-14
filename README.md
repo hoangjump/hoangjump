@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋 I'm Văn Hoàng</h1>
-<h3 align="center">⚙️ Automation • Backend • Systems</h3>
 
 <p align="center">
 📍 Sai Gon, Viet Nam &nbsp;&nbsp;|&nbsp;&nbsp;
@@ -21,24 +20,5 @@
 ### 📊 Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hoangjump&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img src="https://streak-stats.demolab.com?user=hoangjump&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-### 🧩 Currently
-
-```txt
-Building tools > clicking buttons
-Automating > repeating
-Fixing root cause > patching bugs
-```
-
----
-
-### ☕
-
-<p align="center">
-If it can be automated — I will automate it.
 </p>
